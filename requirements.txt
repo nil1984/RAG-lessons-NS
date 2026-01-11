@@ -7,8 +7,7 @@ pymupdf
 sentence-transformers
 faiss-cpu
 chromadb
-langchain-groq
+langchain-openai
 python-dotenv
 typesense
-langchain_openai
 langgraph
